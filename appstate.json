@@ -1,20 +1,20 @@
 [
-    {
-        "key": "dbln",
-        "value": "%7B%2261579294972264%22%3A%22P4ndsoPz%22%2C%2261564511284774%22%3A%22GEV3UNOp%22%7D",
-        "domain": "facebook.com",
-        "path": "/login/device-based/",
-        "hostOnly": false,
-        "creation": "2025-08-14T21:48:44.237Z",
-        "lastAccessed": "2025-08-14T21:48:44.237Z"
-    },
-    {
-        "key": "sb",
-        "value": "BX-daBycZN5R2J3WNo2fjSs9",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2025-08-14T21:48:44.237Z",
-        "lastAccessed": "2025-08-14T21:48:44.237Z"
-    }
+	{
+		"key": "datr",
+		"value": "8lqeaINlVL7IEzjQAWyPie-6",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-14T21:55:08.291Z",
+		"lastAccessed": "2025-08-14T21:55:08.291Z"
+	},
+	{
+		"key": "fr",
+		"value": "0fEnWxVIDacyW9rXQ..Bonlry..AAA.0.0.Bonlry.AWf5jdk7pR3qerPXxPsAUGrnaNc",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-08-14T21:55:08.291Z",
+		"lastAccessed": "2025-08-14T21:55:08.291Z"
+	}
 ]
